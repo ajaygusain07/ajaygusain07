@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I’m Ajay, a curious and passionate developer who enjoys building web applications and learning new technologies.<br><br>💻 Tech I use: React, JavaScript, Python (Flask), C++<br>🚀 Interests: Full-Stack Development, AI/ML<br>📈 Always learning and improving every day
+I am Ajay Singh Gusain, a curious and passionate developer who enjoys building web applications and learning new technologies.<br><br>💻 Tech I use: React, JavaScript, Python (Flask), C++<br>🚀 Interests: Full-Stack Development, AI/ML<br>📈 Always learning and improving every day
 
 
 ## 🌐 Socials:
